@@ -4,11 +4,9 @@
 <li>Automatizador para testes em aplicações que lidam com CPF.</li>
 <h2>Como utilizar</h2>
 <p>Informe em seu console a quantidade, o estado(opcional) e se deverá ser padronizado ou não.</p>
+  <h2>Tecnologia usada</h2>
 <table>
   <tr>
-    <th>Tecnologia usada</th>
-  </tr>
-  <tr>
-    <td>Python</td>
+    <th>Python</th>
   </tr>
 </table>
